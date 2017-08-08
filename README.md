@@ -12,8 +12,5 @@ Inspired by [this comment](https://news.ycombinator.com/item?id=14953648) on HN.
 - [Naivechain](https://github.com/lhartikk/naivechain) a blockchain in 200 lines of code. `Apache` `Javascript`
 - [Tinychain](https://github.com/jamesob/tinychain) a pocket-sized implementation of Bitcoin. `MIT` `Python`
 
-## HTTP
-- [Simple-Python-Webserver](https://github.com/joshmaker/simple-python-webserver) a simple webserver written in Python. `Python`
-
 ## NTP
 - [NTPserver](https://github.com/limifly/ntpserver) a Python based ntp server. `MIT` `Python`
