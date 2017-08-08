@@ -1,4 +1,4 @@
-# Awesome-Implementations
+# Awesome-Lightweights
 
 This is a list of Open Source implementations of various protocols and technologies. Those implementations should strive to be lightweight and easily readable.
 
