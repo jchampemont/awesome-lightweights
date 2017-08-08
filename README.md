@@ -17,3 +17,6 @@ Inspired by [this comment](https://news.ycombinator.com/item?id=14953648) on HN.
 
 ## NTP
 - [NTPserver](https://github.com/limifly/ntpserver) a Python based ntp server. `MIT` `Python`
+
+## Text editor
+- [Kilo](https://github.com/antirez/kilo) a (console) text editor in less than 1000 lines of code with syntax highlight and search. `BSD2` `C`
